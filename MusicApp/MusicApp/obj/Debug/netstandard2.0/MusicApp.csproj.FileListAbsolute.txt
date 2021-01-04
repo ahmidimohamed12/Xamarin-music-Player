@@ -1,0 +1,16 @@
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/bin/Debug/netstandard2.0/MusicApp.deps.json
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/bin/Debug/netstandard2.0/MusicApp.dll
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/bin/Debug/netstandard2.0/ref/MusicApp.dll
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/bin/Debug/netstandard2.0/MusicApp.pdb
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MyPage_start.xaml.g.cs
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/PlayerPage.xaml.g.cs
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.AssemblyInfoInputs.cache
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.AssemblyInfo.cs
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.csproj.CoreCompileInputs.cache
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.dll
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/ref/MusicApp.dll
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.pdb
+/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/Debug/netstandard2.0/MusicApp.csprojAssemblyReference.cache
