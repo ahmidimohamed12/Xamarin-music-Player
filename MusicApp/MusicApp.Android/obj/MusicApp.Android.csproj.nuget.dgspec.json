@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj": {}
+    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj": {
+    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
+        "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
         "projectName": "MusicApp.Android",
-        "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
+        "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
         "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-        "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/obj/",
+        "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj": {
-                "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj"
+              "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj": {
+                "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj"
               }
             }
           }
@@ -42,7 +42,7 @@
             },
             "Plugin.MediaManager.Forms": {
               "target": "Package",
-              "version": "[0.9.0, )"
+              "version": "[0.9.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj": {
+    "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj",
+        "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj",
         "projectName": "MusicApp",
-        "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj",
+        "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj",
         "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-        "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/obj/",
+        "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmidimohamed/.config/NuGet/NuGet.Config"
@@ -106,7 +106,7 @@
             },
             "Plugin.MediaManager.Forms": {
               "target": "Package",
-              "version": "[0.9.0, )"
+              "version": "[0.9.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

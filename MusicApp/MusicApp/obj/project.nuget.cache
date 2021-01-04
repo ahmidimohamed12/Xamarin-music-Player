@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JHvhM6A/paLfw/1+pqTlgGQtAYi1AHNgffFdkOYmZI9wOx3KQGu/onenb3zCWKPRyQGWi88akMy4j7PJb3hJJA==",
+  "dgSpecHash": "2Le+xT6cZzPcuPD0vDJSokkObEhXdMFUUVCbvbPUOnRk5xv6dUgcT8zMcu/sB9azV2R99GIGcXWHfUrWRHvBqg==",
   "success": true,
-  "projectFilePath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj",
+  "projectFilePath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj",
   "expectedPackageFiles": [
     "/Users/ahmidimohamed/.nuget/packages/com.airbnb.xamarin.forms.lottie/2.0.0/com.airbnb.xamarin.forms.lottie.2.0.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager/0.9.0/plugin.mediamanager.0.9.0.nupkg.sha512",
-    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager.forms/0.9.0/plugin.mediamanager.forms.0.9.0.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager/0.9.6/plugin.mediamanager.0.9.6.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager.forms/0.9.6/plugin.mediamanager.forms.0.9.6.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xamarin.forms/4.6.0.726/xamarin.forms.4.6.0.726.nupkg.sha512",

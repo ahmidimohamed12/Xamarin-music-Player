@@ -28,7 +28,7 @@
           "lib/MonoAndroid70/Lottie.Forms.dll": {}
         }
       },
-      "Plugin.MediaManager/0.9.0": {
+      "Plugin.MediaManager/0.9.6": {
         "type": "package",
         "dependencies": {
           "Xam.Plugins.Android.ExoPlayer": "2.9.8",
@@ -44,10 +44,10 @@
           "lib/monoandroid90/MediaManager.dll": {}
         }
       },
-      "Plugin.MediaManager.Forms/0.9.0": {
+      "Plugin.MediaManager.Forms/0.9.6": {
         "type": "package",
         "dependencies": {
-          "Plugin.MediaManager": "0.9.0",
+          "Plugin.MediaManager": "0.9.6",
           "Xamarin.Android.Support.Design": "28.0.0.3",
           "Xamarin.Android.Support.v4": "28.0.0.3",
           "Xamarin.Android.Support.v7.AppCompat": "28.0.0.3",
@@ -1035,7 +1035,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Com.Airbnb.Xamarin.Forms.Lottie": "2.0.0",
-          "Plugin.MediaManager.Forms": "0.9.0",
+          "Plugin.MediaManager.Forms": "0.9.6",
           "Xamarin.Essentials": "1.3.1",
           "Xamarin.Forms": "4.6.0.726",
           "Xamarin.Forms.PancakeView": "1.3.7"
@@ -1088,10 +1088,10 @@
         "lib/xamarinmac/Lottie.Forms.pdb"
       ]
     },
-    "Plugin.MediaManager/0.9.0": {
-      "sha512": "2Dy1i/bW6yr36mHDW6LG28h9558iswzSBpcyvrWa2i0LMMovZ5uEyc5MNyGZdLLjgD+PCBfGqIlqLBxwS9yZ9Q==",
+    "Plugin.MediaManager/0.9.6": {
+      "sha512": "rXB0qIa3YPPehx6tHk/ha2UEEEIPsLxi5ynIw0dYscO1lEd099jTsEFaNWYkjIm4+oSbwdjZBEZOm0xXzemq6A==",
       "type": "package",
-      "path": "plugin.mediamanager/0.9.0",
+      "path": "plugin.mediamanager/0.9.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1124,15 +1124,15 @@
         "lib/xamarintvos10/MediaManager.dll",
         "lib/xamarintvos10/MediaManager.pdb",
         "lib/xamarintvos10/MediaManager.xml",
-        "plugin.mediamanager.0.9.0.nupkg.sha512",
+        "plugin.mediamanager.0.9.6.nupkg.sha512",
         "plugin.mediamanager.nuspec",
         "readme.txt"
       ]
     },
-    "Plugin.MediaManager.Forms/0.9.0": {
-      "sha512": "tSZwGRiYTUsa0E/FG6P1M13nQxAfNFUaJOi2Ta8NrusMlSSNnRlV/tafPMR6A1yPtvCBFvbg1GmT2qS4mZNqJQ==",
+    "Plugin.MediaManager.Forms/0.9.6": {
+      "sha512": "Jks6yrmDogUX4XaV7hMx2DO5V1esPGu3Z9CD00PpcyHu3ZB3+qqszOoKwWVOY89P4HrCbfA2lLSVQNevMKxnSA==",
       "type": "package",
-      "path": "plugin.mediamanager.forms/0.9.0",
+      "path": "plugin.mediamanager.forms/0.9.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1163,7 +1163,7 @@
         "lib/xamarintvos10/MediaManager.Forms.dll",
         "lib/xamarintvos10/MediaManager.Forms.pdb",
         "lib/xamarintvos10/MediaManager.Forms.xml",
-        "plugin.mediamanager.forms.0.9.0.nupkg.sha512",
+        "plugin.mediamanager.forms.0.9.6.nupkg.sha512",
         "plugin.mediamanager.forms.nuspec",
         "readme.txt"
       ]
@@ -2523,7 +2523,7 @@
     "MonoAndroid,Version=v9.0": [
       "Com.Airbnb.Xamarin.Forms.Lottie >= 2.0.0",
       "MusicApp >= 1.0.0",
-      "Plugin.MediaManager.Forms >= 0.9.0",
+      "Plugin.MediaManager.Forms >= 0.9.6",
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.6.0.726",
       "Xamarin.Forms.PancakeView >= 1.3.7"
@@ -2535,11 +2535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
+      "projectUniqueName": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
       "projectName": "MusicApp.Android",
-      "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
+      "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
       "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-      "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/obj/",
+      "outputPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2554,8 +2554,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj": {
-              "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp/MusicApp.csproj"
+            "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj": {
+              "projectPath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp/MusicApp.csproj"
             }
           }
         }
@@ -2570,7 +2570,7 @@
           },
           "Plugin.MediaManager.Forms": {
             "target": "Package",
-            "version": "[0.9.0, )"
+            "version": "[0.9.6, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

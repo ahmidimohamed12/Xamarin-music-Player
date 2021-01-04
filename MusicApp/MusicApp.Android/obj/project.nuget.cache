@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JmWPv/YCQj6oFOkxRCm+psZ0inpUNGVUBmWWab2ijM7s+MWHLno5Ib81fa/JdGqbNzVK3KWQRkZ/YqdEVh72fg==",
+  "dgSpecHash": "u04vL0adInpOPvljwiqMg1S1NZ3Au9xsJVIo4XKILJcEzCYxyqXzePf2ou7zXVGCR0cesu7xgF49pE4Ab5Lhqg==",
   "success": true,
-  "projectFilePath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
+  "projectFilePath": "/Users/ahmidimohamed/Downloads/Play-Audio-in-Xamarin-Forms-master/Xamarin-music-Player/MusicApp/MusicApp.Android/MusicApp.Android.csproj",
   "expectedPackageFiles": [
     "/Users/ahmidimohamed/.nuget/packages/com.airbnb.android.lottie/2.0.0/com.airbnb.android.lottie.2.0.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/com.airbnb.xamarin.forms.lottie/2.0.0/com.airbnb.xamarin.forms.lottie.2.0.0.nupkg.sha512",
-    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager/0.9.0/plugin.mediamanager.0.9.0.nupkg.sha512",
-    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager.forms/0.9.0/plugin.mediamanager.forms.0.9.0.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager/0.9.6/plugin.mediamanager.0.9.6.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager.forms/0.9.6/plugin.mediamanager.forms.0.9.6.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xam.plugins.android.exoplayer/2.9.8/xam.plugins.android.exoplayer.2.9.8.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xam.plugins.android.exoplayer.core/2.9.8/xam.plugins.android.exoplayer.core.2.9.8.nupkg.sha512",
